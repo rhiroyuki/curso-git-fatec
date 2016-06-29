@@ -13,4 +13,8 @@
 - Idiomas: Inglês (Conversa : Razoável; Listening : Muito Bom; Escrita : Razoável; Leitura : Muito Bom)  
 - Ferramentas: Git  
 - Linux  
-- ...
+- ...  
+
+## Ultimos Lidos
+- Nenhum livro 1
+- Nenhum livro 2
