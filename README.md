@@ -16,5 +16,4 @@
 - ...  
 
 ## Ultimos Lidos
-- Nenhum livro 1
-- Nenhum livro 2
+
